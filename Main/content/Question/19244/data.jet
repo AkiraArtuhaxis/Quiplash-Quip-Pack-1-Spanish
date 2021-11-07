@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "I’d hit that|I’d hump that|I’d hump him|I’d hump her|I’d fuck that|I’d fuck him|I’d fuck her",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "No, no no, I didn’t ask what YOU think when you’re naked and looking at your dog. BAM! See what I did there? (beat) I’m sorry.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Lo que piensa tu perro cuando te ve desnudo",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "382965_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "382963_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

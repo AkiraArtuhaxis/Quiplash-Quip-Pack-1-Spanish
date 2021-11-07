@@ -1,0 +1,630 @@
+{
+    "content": [
+        {
+            "x": false,
+            "id": 21545,
+            "prompt": "El peor nombre para una banda de chicas"
+        },
+        {
+            "x": false,
+            "id": 21544,
+            "prompt": "Una cosa mala para decirle a los padres de tu cita"
+        },
+        {
+            "x": false,
+            "id": 21543,
+            "prompt": "Vende tu peor idea de videojuego en cinco palabras o menos"
+        },
+        {
+            "x": false,
+            "id": 21542,
+            "prompt": "Qué vergonzoso para ti. Acabas de <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21541,
+            "prompt": "El peor error que puedes cometer mientras streameas en Twitch.tv"
+        },
+        {
+            "x": false,
+            "id": 21540,
+            "prompt": "La peor canción con la que hacer patinaje artístico en parejas"
+        },
+        {
+            "x": false,
+            "id": 21539,
+            "prompt": "¿Cómo terminaste en la sala de emergencias esta vez?"
+        },
+        {
+            "x": false,
+            "id": 21538,
+            "prompt": "Lo peor que se puede decir durante una entrevista de trabajo"
+        },
+        {
+            "x": false,
+            "id": 21537,
+            "prompt": "Una categoría de revista que aún no ha sido inventada"
+        },
+        {
+            "x": false,
+            "id": 21536,
+            "prompt": "Los 3 mejores ingredientes en un jugo de camión de basura"
+        },
+        {
+            "x": false,
+            "id": 21533,
+            "prompt": "Un poder de superhéroe muy malo"
+        },
+        {
+            "x": false,
+            "id": 21534,
+            "prompt": "La peor cosa que se le puede poner a una pizza"
+        },
+        {
+            "x": false,
+            "id": 21535,
+            "prompt": "Si la evolución es verídica, entonces ¿por qué no ha evolucionado <BLANK> en <BLANK>?"
+        },
+        {
+            "x": false,
+            "id": 21116,
+            "prompt": "¿Qué es el Monstruo del Lago Ness, en realidad?"
+        },
+        {
+            "x": false,
+            "id": 21117,
+            "prompt": "Un nombre rechazado para el Segway"
+        },
+        {
+            "x": false,
+            "id": 21125,
+            "prompt": "La otra manera menos conocida de encontrar al Mago de Oz: Seguir el camino <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21132,
+            "prompt": "¿Qué deberíamos hacer con todo este plástico que no se va a desintegrar?"
+        },
+        {
+            "x": false,
+            "id": 21134,
+            "prompt": "Una cosa que los ricos verdaderamente disfrutan es <BLANK> con diamantes incrustados"
+        },
+        {
+            "x": false,
+            "id": 21135,
+            "prompt": "La mejor parte de cumplir 100 años"
+        },
+        {
+            "x": false,
+            "id": 21147,
+            "prompt": "Olvídense del café. No hablen conmigo hasta que haya tenido mi <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21148,
+            "prompt": "Extrañas instrucciones nuevas del champú: “Enjabonar, Enjuagar, <BLANK>, Repetir.”"
+        },
+        {
+            "x": false,
+            "id": 21152,
+            "prompt": "El título de un podcast que nunca en tu vida escucharías"
+        },
+        {
+            "x": false,
+            "id": 21153,
+            "prompt": "El nombre de una especie nueva y aterradora de araña"
+        },
+        {
+            "x": false,
+            "id": 21154,
+            "prompt": "El libro perdido de Hemingway: <i>El viejo y el <BLANK><\/i>"
+        },
+        {
+            "x": false,
+            "id": 21160,
+            "prompt": "El peor truco de magia"
+        },
+        {
+            "x": false,
+            "id": 21168,
+            "prompt": "Una <BLANK> al día mantiene al doctor en la lejanía"
+        },
+        {
+            "x": false,
+            "id": 21169,
+            "prompt": "El quemado sería un mejor deporte si se permitiera <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21171,
+            "prompt": "El nombre de un restaurante de comida rápida en la Edad de Piedra"
+        },
+        {
+            "x": false,
+            "id": 21172,
+            "prompt": "El título de un ensayo de admisión universitaria que definitivamente sería rechazado"
+        },
+        {
+            "x": false,
+            "id": 21173,
+            "prompt": "En lugar de “¡Whisky!” el peor fotógrafo familiar te haría decir, “¡<BLANK>!”"
+        },
+        {
+            "x": false,
+            "id": 21175,
+            "prompt": "¿En qué está pensando la estatua de Abraham Lincoln mientras está sentada en el Monumento a Lincoln?"
+        },
+        {
+            "x": false,
+            "id": 21180,
+            "prompt": "“Y a mí que me dices, yo voté por <BLANK>.”"
+        },
+        {
+            "x": false,
+            "id": 21181,
+            "prompt": "El nombre del peor muñeco bebé"
+        },
+        {
+            "x": false,
+            "id": 21182,
+            "prompt": "Una manera segura de arruinar la Navidad"
+        },
+        {
+            "x": false,
+            "id": 21184,
+            "prompt": "El peor equipo de fútbol universitario: Los <BLANK> Luchadores"
+        },
+        {
+            "x": false,
+            "id": 21189,
+            "prompt": "Lo último que esperarías encontrar en tus conductos de aire"
+        },
+        {
+            "x": false,
+            "id": 21195,
+            "prompt": "A lo que esperarías que huela la línea de perfumes de Justin Bieber"
+        },
+        {
+            "x": false,
+            "id": 21198,
+            "prompt": "Algo que Big Bird confesará en su lecho de muerte"
+        },
+        {
+            "x": true,
+            "id": 21203,
+            "prompt": "El remate a un chiste burdo de <i>Star Wars<\/i>"
+        },
+        {
+            "x": false,
+            "id": 21205,
+            "prompt": "El nombre de una cadena de televisión por cable que nadie mira"
+        },
+        {
+            "x": false,
+            "id": 21206,
+            "prompt": "Si la marmota ve “más o menos” su sombra, son seis semanas de <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21208,
+            "prompt": "Algo que ha estado escondido en el fondo de cada episodio de <i>Friends<\/i>"
+        },
+        {
+            "x": false,
+            "id": 21209,
+            "prompt": "La peor manera de destapar un inodoro"
+        },
+        {
+            "x": false,
+            "id": 21211,
+            "prompt": "Deberíamos combinar Minnesota y Wisconsin y llamarlos <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21212,
+            "prompt": "Un nombre terrible para un dragón"
+        },
+        {
+            "x": false,
+            "id": 21214,
+            "prompt": "En el futuro, los espectadores se abalanzarán a ver <i>Jurassic Park 10: <BLANK><\/i>"
+        },
+        {
+            "x": false,
+            "id": 21221,
+            "prompt": "Lo mejor que se puede gritar al cruzar las cataratas del Niágara en un barril "
+        },
+        {
+            "x": false,
+            "id": 21225,
+            "prompt": "Una cosa extraña para encuadrar y colgar en la pared"
+        },
+        {
+            "x": false,
+            "id": 21228,
+            "prompt": "El peor momento para que un pájaro te cague encima"
+        },
+        {
+            "x": false,
+            "id": 21230,
+            "prompt": "Sabes que eres famoso cuando..."
+        },
+        {
+            "x": false,
+            "id": 21233,
+            "prompt": "Lo que una rana le diría a su psiquiatra"
+        },
+        {
+            "x": true,
+            "id": 21240,
+            "prompt": "Lo que pasa cuando finalmente haces contacto visual con el loco del metro subterráneo"
+        },
+        {
+            "x": false,
+            "id": 21241,
+            "prompt": "Dónde termina Charlie Brown a los 45 años"
+        },
+        {
+            "x": false,
+            "id": 21242,
+            "prompt": "Por qué los patos vuelan al sur en el invierno en realidad"
+        },
+        {
+            "x": false,
+            "id": 21243,
+            "prompt": "Lo que no quieres escuchar del pasajero al lado tuyo al inicio de un vuelo de 20 horas"
+        },
+        {
+            "x": true,
+            "id": 21245,
+            "prompt": "Un hallazgo impactante de la caca de Clifford el gran perro rojo"
+        },
+        {
+            "x": false,
+            "id": 21250,
+            "prompt": "Algo que sería divertido ver subir una escalera mecánica "
+        },
+        {
+            "x": false,
+            "id": 21251,
+            "prompt": "La crisis energética de los Estados Unidos terminaría si hiciéramos autos que funcionaran a base de <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 21255,
+            "prompt": "Algo con lo que nunca debes rellenar un sostén"
+        },
+        {
+            "x": false,
+            "id": 21258,
+            "prompt": "Una frase de anuario que no quisieras recibir: Más Probable Que <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21261,
+            "prompt": "Un título rechazado para <i>Moby Dick<\/i>"
+        },
+        {
+            "x": true,
+            "id": 21263,
+            "prompt": "La más extraña y novedosa arma militar: Misiles de búsqueda de <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21264,
+            "prompt": "La sentencia más extraña que un juez podría imponer"
+        },
+        {
+            "x": false,
+            "id": 21266,
+            "prompt": "Lo peor que puedes escuchar de tu GPS: “A tres kilómetros, <BLANK>”"
+        },
+        {
+            "x": true,
+            "id": 21271,
+            "prompt": "Cómo el pistolero más famoso del medio oeste llama a su pene, probablemente"
+        },
+        {
+            "x": false,
+            "id": 21272,
+            "prompt": "Un buen uso para el cortador de uñas de los pies"
+        },
+        {
+            "x": true,
+            "id": 21275,
+            "prompt": "El western más malo fue <i>Tiroteo en el Corral <BLANK><\/i>"
+        },
+        {
+            "x": false,
+            "id": 21279,
+            "prompt": "Un castigo adecuado para las personas que remojan dos veces sus papitas"
+        },
+        {
+            "x": false,
+            "id": 21281,
+            "prompt": "Un video que seguro llegaría a más de 150 millones de vistas en YouTube sería “Pollos <BLANK>”"
+        },
+        {
+            "x": false,
+            "id": 21282,
+            "prompt": "Algo impresionante para encontrar en la suela de tu zapato"
+        },
+        {
+            "x": true,
+            "id": 21286,
+            "prompt": "Lo educado para llevar a una orgía en los suburbios"
+        },
+        {
+            "x": true,
+            "id": 21290,
+            "prompt": "El título de una serie de televisión popular con la palabra “caca” insertada"
+        },
+        {
+            "x": false,
+            "id": 21292,
+            "prompt": "La peor cosa que podría ir seguida por “tostado con miel”"
+        },
+        {
+            "x": false,
+            "id": 21295,
+            "prompt": "¿Por qué los gansos son tan malos?"
+        },
+        {
+            "x": false,
+            "id": 21297,
+            "prompt": "Algo que no quieres encontrar bajo tu cama del hotel"
+        },
+        {
+            "x": false,
+            "id": 21301,
+            "prompt": "Sabes que tu médico se ha vuelto loco cuando te dice que te asegures de <BLANK> al menos una vez al día"
+        },
+        {
+            "x": false,
+            "id": 21303,
+            "prompt": "La peor parte de ser una Tortuga Ninja"
+        },
+        {
+            "x": false,
+            "id": 21305,
+            "prompt": "Una señal de que tu niño no es bueno en los deportes"
+        },
+        {
+            "x": false,
+            "id": 21307,
+            "prompt": "La primera señal de que ya no estás en la onda"
+        },
+        {
+            "x": false,
+            "id": 21318,
+            "prompt": "Sabes que eres un adicto al chocolate cuando..."
+        },
+        {
+            "x": false,
+            "id": 21319,
+            "prompt": "Una buena alternativa para paletas de ping-pong"
+        },
+        {
+            "x": true,
+            "id": 21320,
+            "prompt": "Un nombre para una tortuga sexy"
+        },
+        {
+            "x": false,
+            "id": 21321,
+            "prompt": "Algo que no debes hacer mientras te sostiene una multitud"
+        },
+        {
+            "x": false,
+            "id": 21607,
+            "prompt": "Nunca tienes un <BLANK> cuando lo necesitas"
+        },
+        {
+            "x": false,
+            "id": 21608,
+            "prompt": "Sabes que estás en un restaurante de comida rápida muy extraño cuando el cajero pregunta: “¿Quieres <BLANK> con eso?”"
+        },
+        {
+            "x": false,
+            "id": 21613,
+            "prompt": "Es increíblemente grosero el <BLANK> con la boca abierta"
+        },
+        {
+            "x": false,
+            "id": 21614,
+            "prompt": "No es el calor. No es la humedad. Es el <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21619,
+            "prompt": "En el próximo gran escándalo deportivo, descubrimos que <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21620,
+            "prompt": "Olvídense de los perros. ¿Cuál es verdaderamente el mejor amigo de los perros?"
+        },
+        {
+            "x": false,
+            "id": 21621,
+            "prompt": "Cómo puedes darte cuenta que es el primer día en el trabajo de un médico"
+        },
+        {
+            "x": false,
+            "id": 21624,
+            "prompt": "La peor película adolescente de los 60 fue definitivamente <i><BLANK> Beach<\/i>"
+        },
+        {
+            "x": false,
+            "id": 21627,
+            "prompt": "<i>El imperio contraataca<\/i> hubiera sido arruinada si Darth Vader dijera “Luke, soy <BLANK>”"
+        },
+        {
+            "x": false,
+            "id": 21628,
+            "prompt": "El cereal de desayuno más repugnante: Copos de <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 22042,
+            "prompt": "Un instrumento de tortura medieval poco conocido: El <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 22047,
+            "prompt": "Lo mejor para disparar de un cañón"
+        },
+        {
+            "x": false,
+            "id": 22057,
+            "prompt": "De los creadores de “Golpea-al-Topo” llega el nuevo juego “<BLANK>-al-<BLANK>”"
+        },
+        {
+            "x": false,
+            "id": 22062,
+            "prompt": "El título de una canción inédita de Jimmy Buffett"
+        },
+        {
+            "x": false,
+            "id": 21633,
+            "prompt": "Te despiertas 100 años en el futuro y te sorprendes al descubrir <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21636,
+            "prompt": "La causa ambientalista más inusual es “<BLANK> a las ballenas”"
+        },
+        {
+            "x": false,
+            "id": 21637,
+            "prompt": "Lo único peor que esperar parado en una fila muy larga es esperar parado en una fila muy larga para <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 21638,
+            "prompt": "El lugar más extraño en el que observar una imagen de la Virgen María"
+        },
+        {
+            "x": true,
+            "id": 21640,
+            "prompt": "Lo peor que ocurrió en el arca de Noé"
+        },
+        {
+            "x": false,
+            "id": 21643,
+            "prompt": "Un eslogan turístico rechazado para Des Moines, Iowa: “Hogar de <BLANK>”"
+        },
+        {
+            "x": false,
+            "id": 21646,
+            "prompt": "Algo que sería extraño que un predicador diga al terminar cada sermón"
+        },
+        {
+            "x": false,
+            "id": 21648,
+            "prompt": "El gran giro loco al final de la próxima película de M. Night Shamalayan: ¡Todo este tiempo, él era\/estaba <BLANK>!"
+        },
+        {
+            "x": true,
+            "id": 21649,
+            "prompt": "Lo malo: Estás perdido en el bosque. Lo más malo: También estás completamente desnudo. Lo peor: Y también eres\/estás <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21652,
+            "prompt": "Lo más extraño que puede ofrecerte un asistente de baño"
+        },
+        {
+            "x": false,
+            "id": 21653,
+            "prompt": "Un libro olvidado en la clásica saga de Harry Potter: <i>Harry Potter y el <BLANK><\/i>"
+        },
+        {
+            "x": false,
+            "id": 21654,
+            "prompt": "El peor globo de un desfile de globos sería un <BLANK> inflable gigante"
+        },
+        {
+            "x": false,
+            "id": 21657,
+            "prompt": "Lo mejor para mascar cuando no tienes chicle a mano"
+        },
+        {
+            "x": false,
+            "id": 21660,
+            "prompt": "La mayoría de las personas la conocen como La Gran Manzana, pero otro sobrenombre menos conocido para Nueva York es La Gran <BLANK>"
+        },
+        {
+            "x": true,
+            "id": 21661,
+            "prompt": "Cómo puedes darte cuenta de que estás tomando un vino muy barato"
+        },
+        {
+            "x": true,
+            "id": 21663,
+            "prompt": "Una advertencia sanitaria pocas veces vista que la mayoría de las personas no conoce: “Fumar puede causar <BLANK>”"
+        },
+        {
+            "x": false,
+            "id": 21664,
+            "prompt": "Una buena manera de saldar rápidamente las deudas de una tarjeta de crédito"
+        },
+        {
+            "x": true,
+            "id": 21665,
+            "prompt": "Algo que sería escalofriante escuchar decir a tu media naranja mientras está dormido\/a"
+        },
+        {
+            "x": false,
+            "id": 21667,
+            "prompt": "El nombre de una nueva colonia inspirada por el chef famoso Guy Fieri"
+        },
+        {
+            "x": false,
+            "id": 21668,
+            "prompt": "Cómo eligen en realidad al próximo Papa"
+        },
+        {
+            "x": true,
+            "id": 21670,
+            "prompt": "¿Cómo se animan a sí mismos los proctólogos?"
+        },
+        {
+            "x": false,
+            "id": 21671,
+            "prompt": "El peor vikingo: Eric el <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21676,
+            "prompt": "El mensaje más extraño que tu gato podría escribirte en su caja de arena"
+        },
+        {
+            "x": false,
+            "id": 21677,
+            "prompt": "Un buen sobrenombre para tus abdominales"
+        },
+        {
+            "x": false,
+            "id": 21678,
+            "prompt": "Los peores vecinos de arriba serían personas que <BLANK>"
+        },
+        {
+            "x": false,
+            "id": 21680,
+            "prompt": "Un piropo horrible"
+        },
+        {
+            "x": false,
+            "id": 21684,
+            "prompt": "La secuela menos conocida de <i>Su más fiel amigo<\/i>: <i>Su más fiel amigo 2: <BLANK><\/i>"
+        },
+        {
+            "x": false,
+            "id": 21689,
+            "prompt": "El peor premio de carnaval que puedes ganar"
+        }
+    ],
+    "episodeid": 1233
+}
